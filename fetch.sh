@@ -1,6 +1,6 @@
 #!/bin/bash
 # This is a sysfetch script to show system information, as well as a cool logo to go with it,
-# inspired by Neofetch. This is my own custom script, with any due credits being given below:
+# inspired by Neofetch. This is my own custom script, with any due credits being given in the README:
 #
 #
 os=$(cat /etc/os-release | grep "NAME" | cut -b 6-)
